@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRUD/static/css/main.c2cab247.css",
+    "main.js": "/CRUD/static/js/main.264268c9.js",
+    "service-worker.js": "/CRUD/service-worker.js",
+    "index.html": "/CRUD/index.html",
+    "main.c2cab247.css.map": "/CRUD/static/css/main.c2cab247.css.map",
+    "main.264268c9.js.map": "/CRUD/static/js/main.264268c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.264268c9.js"
+  ]
+}
